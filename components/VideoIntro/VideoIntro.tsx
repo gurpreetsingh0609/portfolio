@@ -64,7 +64,7 @@ export default function VideoIntro() {
           muted={isMuted}
           className="w-full h-full object-cover object-top"
         >
-          <source src="/videos/hero-video.mp4" type="video/mp4" />
+          <source src="/Videos/hero-video.mp4" type="video/mp4" />
         </video>
 
         {/* LAYER 1: Smooth BOTTOM blend (Melts the video base into the dark canvas below) */}
